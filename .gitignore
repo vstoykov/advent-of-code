@@ -1,3 +1,5 @@
 .idea
-day*-input.txt
+day*.txt
 !day*-test-input.txt
+!day*-example.txt
+!day*.test.txt
